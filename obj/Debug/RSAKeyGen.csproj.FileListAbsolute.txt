@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\RSAKeyGen\bin\Debug\RSAKeyGen.exe.config
+C:\Users\admin\source\repos\RSAKeyGen\bin\Debug\RSAKeyGen.exe
+C:\Users\admin\source\repos\RSAKeyGen\bin\Debug\RSAKeyGen.pdb
+C:\Users\admin\source\repos\RSAKeyGen\obj\Debug\RSAKeyGen.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\RSAKeyGen\obj\Debug\RSAKeyGen.Properties.Resources.resources
+C:\Users\admin\source\repos\RSAKeyGen\obj\Debug\RSAKeyGen.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\RSAKeyGen\obj\Debug\RSAKeyGen.exe
+C:\Users\admin\source\repos\RSAKeyGen\obj\Debug\RSAKeyGen.pdb
+C:\Users\admin\source\repos\RSAKeyGen\obj\Debug\RSAKeyGen.KeyGen.resources
